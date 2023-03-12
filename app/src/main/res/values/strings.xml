@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wi-charge2</string>
+    <string name="not_connected">not</string>
+    <string name="settings">settings</string>
+    <string name="charging">charging</string>
+    <string name="not_wifi">not</string>
+    <string name="weak_connection">weak</string>
+    <string name="connected">connected</string>
+    <string name="status">status</string>
+</resources>
